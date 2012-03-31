@@ -10,6 +10,8 @@
 *.order
 *.symvers
 *~
+*.preload
+*.log
 
 # Compiled Dynamic libraries
 *.so
